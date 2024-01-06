@@ -1,0 +1,10 @@
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+footer{
+    text-align: center;
+}
+form > section{
+    margin-top: 10px;
+}
