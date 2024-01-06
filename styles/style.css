@@ -9,5 +9,8 @@ nav li > a{
 
 footer{
     text-align: center;
+    margin-right: 20px;
 }
-
+article p > a{
+    text-decoration: none;
+}
